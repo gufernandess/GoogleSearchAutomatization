@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+u6LUZ/j9k+jcZYqBFviDjmG1lEGqgOHp5E7Kq2hs4RPHxOsMOx8BdlSFzweqOvBYiYDm8nRn7qbU6jC+sSBzw==",
+  "dgSpecHash": "kjYBykLkrD7vL7l+k6PwvQGjuThxRTNmq5vRXXyUWiHEM5ZdHkVRlBU2yrNm3NfZbUVBba9HN35b62pRBnlgXg==",
   "success": true,
-  "projectFilePath": "/home/gustavo_fernandes/Projects/GoogleSearchAuto/GoogleSearchAuto.csproj",
+  "projectFilePath": "/home/gustavo_fernandes/Projects/GoogleSearchAutomatization/GoogleSearchAuto.csproj",
   "expectedPackageFiles": [
     "/home/gustavo_fernandes/.nuget/packages/anglesharp/0.17.1/anglesharp.0.17.1.nupkg.sha512",
     "/home/gustavo_fernandes/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",

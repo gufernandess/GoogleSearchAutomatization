@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/gustavo_fernandes/Projects/GoogleSearchAuto/GoogleSearchAuto.csproj": {}
+    "/home/gustavo_fernandes/Projects/GoogleSearchAutomatization/GoogleSearchAuto.csproj": {}
   },
   "projects": {
-    "/home/gustavo_fernandes/Projects/GoogleSearchAuto/GoogleSearchAuto.csproj": {
+    "/home/gustavo_fernandes/Projects/GoogleSearchAutomatization/GoogleSearchAuto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/gustavo_fernandes/Projects/GoogleSearchAuto/GoogleSearchAuto.csproj",
+        "projectUniqueName": "/home/gustavo_fernandes/Projects/GoogleSearchAutomatization/GoogleSearchAuto.csproj",
         "projectName": "GoogleSearchAuto",
-        "projectPath": "/home/gustavo_fernandes/Projects/GoogleSearchAuto/GoogleSearchAuto.csproj",
+        "projectPath": "/home/gustavo_fernandes/Projects/GoogleSearchAutomatization/GoogleSearchAuto.csproj",
         "packagesPath": "/home/gustavo_fernandes/.nuget/packages/",
-        "outputPath": "/home/gustavo_fernandes/Projects/GoogleSearchAuto/obj/",
+        "outputPath": "/home/gustavo_fernandes/Projects/GoogleSearchAutomatization/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/gustavo_fernandes/.nuget/NuGet/NuGet.Config"

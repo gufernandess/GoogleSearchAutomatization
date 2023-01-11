@@ -3,7 +3,7 @@
 using OpenQA.Selenium;
 using OpenQA.Selenium.Firefox;
 
-namespace GoogleSearchAuto
+namespace GoogleSearchAutomatization
 {
 
     class Program
